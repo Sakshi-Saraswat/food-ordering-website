@@ -1,0 +1,44 @@
+.center {
+    text-align:center;
+    justify-content: center;
+    margin-left:auto;
+    margin-right: auto;
+   
+}
+#home h1 {
+    height: 1px;
+    font-size: xx-large;
+    padding: 113px 2px;
+    line-height: 14px;
+}
+#home p{
+    display:none;
+}
+.btn {
+    line-height: 2px;
+}
+
+#home {
+    overflow: hidden;
+}
+#home::before {
+    
+    overflow: hidden;
+}
+.primary {
+    font-size:0.6rem;
+}
+
+#navbar { 
+    height:2px;
+   
+}
+.services-container .services {
+    text-align:center;
+    flex-direction:column;
+}
+#contact {
+    
+    padding: 648px 8px;
+    
+}
